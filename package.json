@@ -7,7 +7,9 @@
   },
   "author": "Shreshth Goyal",
   "license": "MIT",
+  "homepage": "https://shreshthhitm.github.io/todo-app/",
   "dependencies": {
+    "gh-pages": "^2.1.1",
     "httpster": "^1.0.4"
   },
   "description": ""
