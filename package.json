@@ -1,0 +1,14 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "open http://localhost:9090 & httpster -p 9099"
+  },
+  "author": "Shreshth Goyal",
+  "license": "MIT",
+  "dependencies": {
+    "httpster": "^1.0.4"
+  },
+  "description": ""
+}
